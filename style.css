@@ -1,0 +1,102 @@
+h1{
+    text-shadow: 7px 5px rgb(219, 219, 219);
+}
+@font-face {
+    font-family:semiBold ;
+    src: url(./assets/Heebo-SemiBold.ttf);
+}
+h2.head1{
+    font-family:semiBold ;
+    text-transform: capitalize;
+}
+@font-face {
+    font-family:extra-bold ;
+    src: url(./assets/BebasNeue-Regular.ttf);
+}
+p.para1{
+    font-family:extra-bold ;
+    text-align: justify;
+}
+@font-face {
+    font-family:play ;
+    src: url(./assets/PlaywriteFRTrad-Regular.ttf);
+}
+h2.head2{
+    font-family:play ;
+    text-transform: capitalize;
+}
+@font-face {
+    font-family:lighter ;
+    src: url(./assets/PlaywriteFRTrad-ExtraLight.ttf);
+}
+.para2{
+    font-family:lighter ;
+}
+@font-face {
+    font-family:writeLight ;
+    src: url(./assets/PlaywriteNZ-Light.ttf);
+}
+h2.head3{
+    font-family:writeLight ;
+    text-transform: capitalize;
+}
+@font-face {
+    font-family:Thin ;
+    src: url(./assets/PlaywriteNZ-Thin.ttf);
+}
+.para3{
+    font-family:Thin ;
+}
+h2.imp-head1{
+    font-family: "Roboto Mono", monospace;
+    text-decoration:overline;
+    text-transform: capitalize;
+}
+.imp-para1{
+    font-family: "Noto Sans HK", sans-serif;
+    vertical-align:baseline;
+}
+.imp-head2{
+    font-family: "Oleo Script", system-ui;
+    text-decoration: dotted;
+    text-transform: capitalize;
+    font-size:xx-large;
+}
+p.imp-para2{
+    font-family: "Cookie", cursive;
+    font-size: 30px;
+}
+.imp-head3{
+    font-family: "Jersey 10 Charted", sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.imp-para3{
+    font-family: "Micro 5 Charted", sans-serif;
+    font-size: 30px;
+}
+.link-head1{
+    font-family: "Rubik Bubbles", system-ui;
+    text-transform: capitalize;
+}
+.link-para1{
+    font-family: "Chango", sans-serif;
+}
+.link-head2{
+    font-family: "Vidaloka", serif;
+    text-transform: capitalize;
+}
+.link-para2{
+    font-family: "Bad Script", cursive;
+    letter-spacing: 3px;
+}
+.link-head3{
+    font-family: "Gochi Hand", cursive;
+    text-transform: capitalize;
+}
+.link-para3{
+    font-family: "Allan", serif;
+    font-size: 25px;
+    word-spacing: 7px;
+    
+}
